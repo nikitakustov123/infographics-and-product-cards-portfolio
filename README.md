@@ -1,2 +1,47 @@
-# infographics-and-product-cards-portfolio
-Portfolio: 10 infographics and 30 e-commerce product cards in different styles
+# Infographics & Product Cards Portfolio
+
+10 infographics (1600×2000) and 30 e-commerce product cards (1200×1600) in different visual styles: flat, dark, neo-brutalist, retro, pastel, poster and more. All brands and data are fictional/illustrative.
+
+## Infographics
+![infographic-01-coffee-bean-to-cup.png](infographic-01-coffee-bean-to-cup.png)
+![infographic-02-healthy-plate.png](infographic-02-healthy-plate.png)
+![infographic-03-plastic-recycling-process.png](infographic-03-plastic-recycling-process.png)
+![infographic-04-remote-work-stats.png](infographic-04-remote-work-stats.png)
+![infographic-05-renewable-energy-mix.png](infographic-05-renewable-energy-mix.png)
+![infographic-06-sleep-better.png](infographic-06-sleep-better.png)
+![infographic-07-social-media-usage.png](infographic-07-social-media-usage.png)
+![infographic-08-solar-system-facts.png](infographic-08-solar-system-facts.png)
+![infographic-09-startup-roadmap.png](infographic-09-startup-roadmap.png)
+![infographic-10-water-on-earth.png](infographic-10-water-on-earth.png)
+
+## Product cards
+![product-card-01-mug.png](product-card-01-mug.png)
+![product-card-02-sneaker.png](product-card-02-sneaker.png)
+![product-card-03-bottle.png](product-card-03-bottle.png)
+![product-card-04-headphones.png](product-card-04-headphones.png)
+![product-card-05-lamp.png](product-card-05-lamp.png)
+![product-card-06-backpack.png](product-card-06-backpack.png)
+![product-card-07-watch.png](product-card-07-watch.png)
+![product-card-08-plant.png](product-card-08-plant.png)
+![product-card-09-candle.png](product-card-09-candle.png)
+![product-card-10-pump.png](product-card-10-pump.png)
+![product-card-11-sunglasses.png](product-card-11-sunglasses.png)
+![product-card-12-notebook.png](product-card-12-notebook.png)
+![product-card-13-speaker.png](product-card-13-speaker.png)
+![product-card-14-phone.png](product-card-14-phone.png)
+![product-card-15-keyboard.png](product-card-15-keyboard.png)
+![product-card-16-camera.png](product-card-16-camera.png)
+![product-card-17-perfume.png](product-card-17-perfume.png)
+![product-card-18-chair.png](product-card-18-chair.png)
+![product-card-19-teapot.png](product-card-19-teapot.png)
+![product-card-20-skate.png](product-card-20-skate.png)
+![product-card-21-ukulele.png](product-card-21-ukulele.png)
+![product-card-22-yoga.png](product-card-22-yoga.png)
+![product-card-23-cap.png](product-card-23-cap.png)
+![product-card-24-lipstick.png](product-card-24-lipstick.png)
+![product-card-25-coffeebag.png](product-card-25-coffeebag.png)
+![product-card-26-honey.png](product-card-26-honey.png)
+![product-card-27-tote.png](product-card-27-tote.png)
+![product-card-28-powerbank.png](product-card-28-powerbank.png)
+![product-card-29-umbrella.png](product-card-29-umbrella.png)
+![product-card-31-earbuds.png](product-card-31-earbuds.png)

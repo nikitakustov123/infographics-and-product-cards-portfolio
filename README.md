@@ -1,6 +1,6 @@
 # Infographics & Product Cards Portfolio
 
-10 infographics (1600×2000) and 30 e-commerce product cards (1200×1600) in different visual styles: flat, dark, neo-brutalist, retro, pastel, poster and more. All brands and data are fictional/illustrative.
+10 infographics (1600×2000) and 30 e-commerce product cards (1200×1600) in different visual styles: flat, dark, neo-brutalist, retro, pastel, poster and more.
 
 ## Infographics
 ![infographic-01-coffee-bean-to-cup.png](infographic-01-coffee-bean-to-cup.png)
